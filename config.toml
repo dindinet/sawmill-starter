@@ -1,4 +1,4 @@
-baseURL = "https://dwalkr.github.io/sawmill/"
+baseURL = "https://dindinet.github.io/sawmill-starter/"
 languageCode = "en-us"
 theme = "sawmill"
 title = "Sawmill"
@@ -10,7 +10,7 @@ url = "https://www.maxgoldhouse.com"
 weight = 1
 [[menu.main]]
 name = "View on Github"
-url = "https://github.com/dwalkr/sawmill"
+url = "https://dindinet.github.io/sawmill-starter/"
 weight = 1
 [params]
-logo = "/logo.svg"
+logo = "https://dindinet.github.io/sawmill-starter/logo.svg"
