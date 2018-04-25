@@ -5,12 +5,12 @@ title = "Sawmill"
 [Author]
 name = "DJ Walker"
 [[menu.main]]
-name = "The Max of Gold House"
-url = "https://www.maxgoldhouse.com"
-weight = 1
-[[menu.main]]
 name = "View on Github"
 url = "https://dindinet.github.io/sawmill-starter/"
+weight = 1
+[[menu.main]]
+name = "The Max of Gold House"
+url = "https://www.maxgoldhouse.com"
 weight = 1
 [params]
 logo = "https://dindinet.github.io/sawmill-starter/logo.svg"
