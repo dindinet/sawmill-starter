@@ -5,7 +5,7 @@ type = "page"
 background_image = "/uploads/2018/04/19/Italiavillagio.jpg"
 background_style = "Dark"
 heading = "Sawmill"
-size = "Big"
+size = "Small"
 subheading = "A Modular Layout Builder for Hugo and [Forestry.io](https://forestry.io)"
 template = "hero-section"
 [[blocks]]
