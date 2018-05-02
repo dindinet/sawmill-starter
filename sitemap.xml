@@ -3,12 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dindinet.github.io/sawmill-starter/chicken-page/</loc>
+    <lastmod>2018-05-02T11:54:22+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dindinet.github.io/sawmill-starter/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dindinet.github.io/sawmill-starter/</loc>
+    <lastmod>2018-05-02T11:54:22+00:00</lastmod>
   </url>
   
   <url>
