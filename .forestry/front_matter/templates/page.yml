@@ -12,6 +12,7 @@ fields:
   name: blocks
   label: Blocks
   template_types:
+  - button
   - body-copy
   - call-to-action
   - media-feature
