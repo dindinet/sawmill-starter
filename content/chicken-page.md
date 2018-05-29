@@ -11,7 +11,7 @@ button_url = "https://www.maxgoldhouse.com"
 template = "button"
 [[blocks]]
 background_style = "Brand Color"
-image = "http://res.cloudinary.com/maxgoldhouse/image/upload/v1527632556/1830/1830_1d_new_new.jpg"
+image = "https://res.cloudinary.com/maxgoldhouse/image/upload/v1527632556/1830/1830_1d_new_new.jpg"
 image_position = "Right"
 template = "media-feature"
 
