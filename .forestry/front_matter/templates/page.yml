@@ -1,7 +1,4 @@
 ---
-pages:
-- chicken-page.md
-- _index.md
 hide_body: true
 is_partial: false
 fields:
@@ -17,3 +14,6 @@ fields:
   - call-to-action
   - media-feature
   - hero-section
+pages:
+- chicken-page.md
+- _index.md

@@ -8,5 +8,10 @@ template = "body-copy"
 button_text = "Max House"
 button_url = "https://www.maxgoldhouse.com"
 template = "button"
+[[blocks]]
+background_style = "Brand Color"
+image = "/v1527632556/1830/1830_1d_new_new.jpg"
+image_position = "Left"
+template = "media-feature"
 
 +++
