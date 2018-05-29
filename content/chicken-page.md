@@ -11,7 +11,7 @@ template = "button"
 [[blocks]]
 background_style = "Brand Color"
 image = "/v1527632556/1830/1830_1d_new_new.jpg"
-image_position = "Left"
+image_position = "Right"
 template = "media-feature"
 
 +++
