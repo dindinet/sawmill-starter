@@ -15,5 +15,5 @@ fields:
   - media-feature
   - hero-section
 pages:
-- chicken-page.md
 - _index.md
+- chicken-page.md
