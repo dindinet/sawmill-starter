@@ -2,6 +2,7 @@ baseURL = "https://dindinet.github.io/sawmill-starter/"
 languageCode = "en-us"
 theme = "sawmill"
 title = "Sawmill"
+cloudinary_url = "https://res.cloudinary.com/maxgoldhouse/image/upload/"
 [Author]
 name = "DJ Walker"
 [[menu.main]]
